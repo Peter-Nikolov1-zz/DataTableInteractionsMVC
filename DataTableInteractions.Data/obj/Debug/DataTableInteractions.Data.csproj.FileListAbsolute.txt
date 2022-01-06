@@ -1,0 +1,17 @@
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\obj\Debug\DataTableInteractions.Data.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\obj\Debug\DataTableInteractions.Data.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\DataTableInteractions.Data.dll.config
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\DataTableInteractions.Data.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\DataTableInteractions.Data.pdb
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\EntityFramework.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\Owin.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\EntityFramework.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\obj\Debug\DataTableInteractions.Data.csproj.CopyComplete
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\obj\Debug\DataTableInteractions.Data.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Data\obj\Debug\DataTableInteractions.Data.pdb

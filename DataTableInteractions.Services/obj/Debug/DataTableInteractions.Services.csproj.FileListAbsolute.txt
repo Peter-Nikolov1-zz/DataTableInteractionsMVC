@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\DataTableInteractions.Services.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\DataTableInteractions.Services.pdb
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\obj\Debug\DataTableInteractions.Services.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\obj\Debug\DataTableInteractions.Services.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\obj\Debug\DataTableInteractions.Services.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\obj\Debug\DataTableInteractions.Services.pdb
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\DataTableInteractions.Services.dll.config
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\EntityFramework.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\EntityFramework.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikol\source\repos\DataTableInteractions.MVC\DataTableInteractions.Services\obj\Debug\DataTableInteractions.Services.csproj.CopyComplete
